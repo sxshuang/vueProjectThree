@@ -1,0 +1,27 @@
+{
+  "getshopcarlist": [{
+      "id": 1,
+      "myid": "87",
+      "title": "华为荣耀",
+      "sell_price": 3000,
+      "num":10,
+      "isSelected":true
+    },
+    {
+      "id": 2,
+      "myid": "88",
+      "title": "苹果iPhone6",
+      "sell_price": 2000,
+      "num":10,
+      "isSelected":true
+    },
+    {
+      "id": 3,
+      "myid": "89",
+      "title": "小米",
+      "sell_price": 2500,
+      "num":10,
+      "isSelected":true
+    }
+  ]
+}
